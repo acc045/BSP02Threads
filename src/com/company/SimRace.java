@@ -5,7 +5,7 @@ import java.util.Comparator;
 
 public class SimRace {
 
-    static final int ROUNDS = 10;
+    static final int ROUNDS = 5;
     private static final int CARS = 5;
 
     private static ArrayList<Car> cars = new ArrayList<>();
