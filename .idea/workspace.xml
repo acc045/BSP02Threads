@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6eb8b65c-0a19-43e6-8e23-2ad136cb24d1" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/Car.java" afterPath="$PROJECT_DIR$/src/com/company/Car.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/SimRace.java" afterPath="$PROJECT_DIR$/src/com/company/SimRace.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,12 +19,10 @@
       <file leaf-file-name="SimRace.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/SimRace.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+            <state relative-caret-position="391">
+              <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#260#261#0" expanded="true" />
-                <element signature="e#288#289#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -32,11 +31,11 @@
       <file leaf-file-name="Car.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Car.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="38" column="5" lean-forward="false" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+            <state relative-caret-position="238">
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding>
-                <element signature="e#924#925#0" expanded="true" />
-                <element signature="e#956#957#0" expanded="true" />
+                <element signature="e#692#693#0" expanded="true" />
+                <element signature="e#724#725#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -65,8 +64,8 @@
         <option value="$PROJECT_DIR$/src/race/SimRace.java" />
         <option value="$USER_HOME$/OneDrive/[HAW]/Semester 4/BS/Praktikum/A2/Inspiration (A&amp;A)/Java/BS_Praktikum_2/src/rennen/Auto.java" />
         <option value="$PROJECT_DIR$/src/race/Car.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Car.java" />
         <option value="$PROJECT_DIR$/src/com/company/SimRace.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Car.java" />
       </list>
     </option>
   </component>
@@ -97,9 +96,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -128,6 +124,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -204,7 +203,8 @@
       <updated>1509787036063</updated>
       <workItem from="1509962881388" duration="906000" />
       <workItem from="1509974316405" duration="142000" />
-      <workItem from="1510041661845" duration="108000" />
+      <workItem from="1510041661845" duration="143000" />
+      <workItem from="1510228046993" duration="92000" />
     </task>
     <task id="LOCAL-00001" summary="renamed main class to simrace">
       <created>1509787312160</created>
@@ -234,11 +234,18 @@
       <option name="project" value="LOCAL" />
       <updated>1509963752709</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="- 5 rounds">
+      <created>1510041794016</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1510041794016</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1156000" />
+    <option name="totallyTimeSpent" value="1283000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
@@ -252,8 +259,8 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977912" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3264516" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32516128" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -263,8 +270,8 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -284,7 +291,8 @@
     <MESSAGE value="renamed main class to simrace" />
     <MESSAGE value="finished project" />
     <MESSAGE value="- added uml" />
-    <option name="LAST_COMMIT_MESSAGE" value="- added uml" />
+    <MESSAGE value="- 5 rounds" />
+    <option name="LAST_COMMIT_MESSAGE" value="- 5 rounds" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -297,8 +305,6 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-            <element signature="e#288#289#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -308,8 +314,8 @@
         <state relative-caret-position="646">
           <caret line="38" column="5" lean-forward="false" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
           <folding>
-            <element signature="e#924#925#0" expanded="true" />
-            <element signature="e#956#957#0" expanded="true" />
+            <element signature="e#692#693#0" expanded="true" />
+            <element signature="e#724#725#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -320,8 +326,6 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-            <element signature="e#288#289#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -331,8 +335,29 @@
         <state relative-caret-position="646">
           <caret line="38" column="5" lean-forward="false" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
           <folding>
-            <element signature="e#924#925#0" expanded="true" />
-            <element signature="e#956#957#0" expanded="true" />
+            <element signature="e#692#693#0" expanded="true" />
+            <element signature="e#724#725#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/SimRace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="5" lean-forward="false" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+          <folding>
+            <element signature="e#692#693#0" expanded="true" />
+            <element signature="e#724#725#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -343,8 +368,6 @@
           <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-            <element signature="e#288#289#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -354,8 +377,8 @@
         <state relative-caret-position="646">
           <caret line="38" column="4" lean-forward="false" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
           <folding>
-            <element signature="e#924#925#0" expanded="true" />
-            <element signature="e#956#957#0" expanded="true" />
+            <element signature="e#692#693#0" expanded="true" />
+            <element signature="e#724#725#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -366,48 +389,20 @@
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-            <element signature="e#288#289#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/OneDrive/[HAW]/Semester 4/BS/Praktikum/A2/Inspiration (A&amp;A)/Java/BS_Praktikum_2/src/rennen/Auto.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/OneDrive/[HAW]/Semester 4/BS/Praktikum/A2/Inspiration (A&amp;A)/Java/BS_Praktikum_2/src/rennen/Unfall.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/OneDrive/[HAW]/Semester 4/BS/Praktikum/A2/Inspiration (A&amp;A)/Java/BS_Praktikum_2/src/rennen/RennenUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/OneDrive/[HAW]/Semester 4/BS/Praktikum/A2/Inspiration (A&amp;A)/Java/BS_Praktikum_2/src/rennen/SimRennen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/OneDrive/[HAW]/Semester 4/BS/Praktikum/A2/Inspiration (A&amp;A)/Java/BS_Praktikum_2/src/rennen/Auto.java" />
+    <entry file="file://$USER_HOME$/OneDrive/[HAW]/Semester 4/BS/Praktikum/A2/Inspiration (A&amp;A)/Java/BS_Praktikum_2/src/rennen/Unfall.java" />
+    <entry file="file://$USER_HOME$/OneDrive/[HAW]/Semester 4/BS/Praktikum/A2/Inspiration (A&amp;A)/Java/BS_Praktikum_2/src/rennen/RennenUtil.java" />
+    <entry file="file://$USER_HOME$/OneDrive/[HAW]/Semester 4/BS/Praktikum/A2/Inspiration (A&amp;A)/Java/BS_Praktikum_2/src/rennen/SimRennen.java" />
     <entry file="file://$PROJECT_DIR$/src/com/company/SimRace.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-            <element signature="e#288#289#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -426,36 +421,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/OneDrive/[HAW]/Semester 4/BS/Praktikum/A2/Inspiration (A&amp;A)/Java/BS_Praktikum_2/src/rennen/Unfall.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/OneDrive/[HAW]/Semester 4/BS/Praktikum/A2/Inspiration (A&amp;A)/Java/BS_Praktikum_2/src/rennen/Unfall.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/function/ToIntFunction.java" />
-    <entry file="file://$USER_HOME$/OneDrive/[HAW]/Semester 4/BS/Praktikum/A2/Inspiration (A&amp;A)/Java/BS_Praktikum_2/src/rennen/RennenUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/OneDrive/[HAW]/Semester 4/BS/Praktikum/A2/Inspiration (A&amp;A)/Java/BS_Praktikum_2/src/rennen/RennenUtil.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/Thread.java" />
-    <entry file="file://$USER_HOME$/OneDrive/[HAW]/Semester 4/BS/Praktikum/A2/Inspiration (A&amp;A)/Java/BS_Praktikum_2/src/rennen/Auto.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/OneDrive/[HAW]/Semester 4/BS/Praktikum/A2/Inspiration (A&amp;A)/Java/BS_Praktikum_2/src/rennen/SimRennen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/OneDrive/[HAW]/Semester 4/BS/Praktikum/A2/Inspiration (A&amp;A)/Java/BS_Praktikum_2/src/rennen/Auto.java" />
+    <entry file="file://$USER_HOME$/OneDrive/[HAW]/Semester 4/BS/Praktikum/A2/Inspiration (A&amp;A)/Java/BS_Praktikum_2/src/rennen/SimRennen.java" />
     <entry file="file://$PROJECT_DIR$/src/com/company/SimRace.uml" />
     <entry file="uml://JAVA/com.company.SimRace">
       <provider selected="true" editor-type-id="UmlEditorProvider">
@@ -503,23 +474,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Car.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" column="5" lean-forward="false" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding>
-            <element signature="e#924#925#0" expanded="true" />
-            <element signature="e#956#957#0" expanded="true" />
+            <element signature="e#692#693#0" expanded="true" />
+            <element signature="e#724#725#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/SimRace.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        <state relative-caret-position="391">
+          <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-            <element signature="e#288#289#0" expanded="true" />
           </folding>
         </state>
       </provider>

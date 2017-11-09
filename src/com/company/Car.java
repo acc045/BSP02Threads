@@ -13,15 +13,6 @@ public class Car extends Thread {
         this.finalTime = 0;
     }
 
-    void startCar() {
-        try {
-            this.start();
-            this.join();
-        } catch (InterruptedException e) {
-            System.err.println("An error occurred in startCar():" + e.getMessage());
-        }
-    }
-
     @Override
     public void run() {
         try {

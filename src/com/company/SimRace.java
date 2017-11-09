@@ -20,9 +20,16 @@ public class SimRace {
         }
     }
 
-    private void start() {
+    private void startRace() {
         for (Car car : cars) {
-            car.startCar();
+            car.start();
+        }
+        for (Car car : cars) {
+            try {
+                car.join();
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
         }
         finishRace();
     }
@@ -41,6 +48,6 @@ public class SimRace {
 
     public static void main(String[] args) {
         SimRace race = new SimRace();
-        race.start();
+        race.startRace();
     }
 }
